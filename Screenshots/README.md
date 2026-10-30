@@ -1,1 +1,0 @@
-Glamora project design screenshots.
